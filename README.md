@@ -1,9 +1,8 @@
 # xlindseyj's Cydia Repository
 ### Technology:
 - Firebase
+- NodeJS
 - Bootstrap 4
-- JQuery
-- CSS
 - XML
 
 ### Add Source:
