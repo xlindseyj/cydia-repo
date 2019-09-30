@@ -30,4 +30,5 @@
   "devDependencies": {
     "webpack": "",
     "webpack-dev-server": ""
+  }
 }
