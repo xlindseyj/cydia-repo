@@ -3,4 +3,4 @@
 1. Cydia -> Sources -> Edit -> Add -> xlindseyj.github.io/cydia-repo
 
 ### Credits:
-1. https://github.com/supermamon/Reposi3
+- https://github.com/supermamon/Reposi3
