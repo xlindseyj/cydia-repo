@@ -1,0 +1,9 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>GitHub</name>
+			<url>https://github.com/xlindseyj/cydia-repo</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</footerlinks>
+</repo>
