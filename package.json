@@ -1,0 +1,22 @@
+{
+  "name": "xlindseyj-cydia-repo",
+  "version": "1.0.0",
+  "description": "xlindseyj's Cydia repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xlindseyj/cydia-repo.git"
+  },
+  "keywords": [
+    "cydia"
+  ],
+  "author": "Jake Lindsey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xlindseyj/cydia-repo/issues"
+  },
+  "homepage": "https://github.com/xlindseyj/cydia-repo#readme"
+}
