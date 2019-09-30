@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "xlindseyj's Cydia repository",
   "main": "index.js",
+  "private": false,
   "scripts": {
+    "deploy": "firebase deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -11,12 +13,21 @@
     "url": "git+https://github.com/xlindseyj/cydia-repo.git"
   },
   "keywords": [
-    "cydia"
+    "cydia",
+    "repository",
+    "retroarch"
   ],
   "author": "Jake Lindsey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/xlindseyj/cydia-repo/issues"
   },
-  "homepage": "https://github.com/xlindseyj/cydia-repo#readme"
+  "homepage": "https://github.com/xlindseyj/cydia-repo",
+  "dependencies": {
+    "bootstap": "^4.3.1",
+    "firebase": ""
+  },
+  "devDependencies": {
+    "webpack": "",
+    "webpack-dev-server": ""
 }
