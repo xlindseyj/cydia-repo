@@ -1,4 +1,10 @@
 # xlindseyj's Cydia Repository
+### Technology:
+- Bootstrap 4
+- JQuery
+- CSS
+- XML
+
 ### Add Source:
 1. Cydia -> Sources -> Edit -> Add -> xlindseyj.github.io/cydia-repo
 
