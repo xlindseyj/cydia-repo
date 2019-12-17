@@ -6,7 +6,7 @@ body {
 .sticky-footer {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 80%;
   height: 60px;
   line-height: 60px;
 }
@@ -23,6 +23,15 @@ a {
 nav.navbar.navbar-expand-lg.navbar-dark.fixed-top,
 .row {
   margin-bottom: 1em; 
+}
+
+nav {
+  width: 80%;
+}
+
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
 }
 
 footer {
