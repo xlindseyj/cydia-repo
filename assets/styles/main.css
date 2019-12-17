@@ -20,7 +20,8 @@ a {
   text-decoration: none;  
 }
 
-header, .navbar, .row {
+nav.navbar.navbar-expand-lg.navbar-dark.fixed-top,
+.row {
   margin-bottom: 1em; 
 }
 
