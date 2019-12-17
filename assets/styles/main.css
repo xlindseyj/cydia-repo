@@ -25,6 +25,11 @@ nav.navbar.navbar-expand-lg.navbar-dark.fixed-top,
   margin-bottom: 1em; 
 }
 
+span a {
+  color: #ddd;
+  text-decoration: none;
+}
+
 .navbar a, p {
   color: #343a40;
 }
