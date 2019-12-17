@@ -6,3 +6,7 @@ h1 img {
 a {
   text-decoration: none;  
 }
+
+div .jumbotron {
+  background-color: transparent;
+}
