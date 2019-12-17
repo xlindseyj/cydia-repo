@@ -6,3 +6,7 @@ img {
 a {
   text-decoration: none;  
 }
+
+.card {
+ padding: 1em; 
+}
