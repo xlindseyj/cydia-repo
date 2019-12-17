@@ -7,6 +7,6 @@ a {
   text-decoration: none;  
 }
 
-nav {
+nav, row {
  margin-bottom: 1em; 
 }
