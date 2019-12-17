@@ -20,7 +20,7 @@ a {
   text-decoration: none;  
 }
 
-.navbar, .row {
+header, .navbar, .row {
   margin-bottom: 1em; 
 }
 
