@@ -7,6 +7,10 @@ a {
   text-decoration: none;  
 }
 
-nav, row {
- margin-bottom: 1em; 
+.navbar, .row {
+  margin-bottom: 1em; 
+}
+
+.navbar a, p {
+  color: #343a40;
 }
