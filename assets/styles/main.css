@@ -4,6 +4,7 @@ body {
 }
 
 .sticky-footer {
+  bottom: 0;
   flex-shrink: none;
 }
 
