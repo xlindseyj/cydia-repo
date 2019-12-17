@@ -10,3 +10,7 @@ a {
 div .jumbotron {
   background-color: transparent;
 }
+
+nav .navbar .navbar-expand-lg .navbar-dark {
+ background-color: #a100ff;
+}
